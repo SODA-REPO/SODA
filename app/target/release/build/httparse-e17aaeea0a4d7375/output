@@ -1,2 +1,0 @@
-cargo:rustc-cfg=httparse_simd
-cargo:rustc-cfg=httparse_simd_target_feature_sse42
