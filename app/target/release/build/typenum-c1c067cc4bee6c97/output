@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/lixiang/SecureSpark/app/target/release/build/typenum-c1c067cc4bee6c97/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/lixiang/SecureSpark/app/target/release/build/typenum-c1c067cc4bee6c97/out/op.rs
