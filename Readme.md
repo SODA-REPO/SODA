@@ -3,7 +3,7 @@ SODA
 
 ## Overview
 
-This is the secure version of `Native Spark`, or `Vega`(https://github.com/rajasekarv/vega). It is in development now.
+This is the secure version of `Native Spark`, or `Vega`(https://github.com/rajasekarv/vega), corresponding to the paper `SODA: A Set of Fast Oblivious Algorithms in Distributed Secure Data Analytics`
 
 ## Setup Environment
 
